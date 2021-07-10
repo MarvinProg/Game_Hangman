@@ -18,7 +18,7 @@
 
 ```
 git clone git@github.com:MarvinProg/Game_Hangman.git
-cd hangman
+cd Game_Hangman
 bundle install
 ruby main.rb
 ```
@@ -29,7 +29,7 @@ ruby main.rb
 
 # Версия
 
-ruby 2.7.3
+ruby 2.7.2
 
 
 # Год
